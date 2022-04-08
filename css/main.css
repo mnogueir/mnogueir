@@ -4,12 +4,10 @@ body {
 	font-size:30px;
         }
 
-#main_container {width:80%;margin:3em auto;}
+#main_container {width:960px;margin:3em auto;}
 
 #intro {
-	width:70%;
-	#min-width:400px;
-	margin-left:10px;
+	width:66%;
 	margin-bottom: 3em;
 }
 
